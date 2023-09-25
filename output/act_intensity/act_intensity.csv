@@ -1,0 +1,3 @@
+activityID,avg(hand_intensity),avg(chest_intensity),avg(ankle_intensity)
+transient activities,9.412818289884102,9.676817828470218,13.832657800761034
+lying,8.019473755547718,3.7590848148770815,8.09021028441533
